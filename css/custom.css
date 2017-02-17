@@ -1,0 +1,15 @@
+.projects{
+  margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 50px;
+        list-style: none;
+  }
+  .adesola{
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 6em;
+    line-height: 1em;
+    text-shadow: 1px 1px 0px black;
+  }
