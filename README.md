@@ -1,3 +1,2 @@
 # aadesola
-Portfolio
-Hello World
+This repository is a portfolio of the major projects i've worked on so far.
